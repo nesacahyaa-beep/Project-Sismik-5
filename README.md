@@ -30,8 +30,7 @@ Setelah Waktu Tertentu: Lampu pejalan kaki kembali menjadi Merah, dan lampu kend
 Kembali ke Awal: Sistem kembali ke kondisi semula di mana lampu kendaraan Hijau dan lampu pejalan kaki tetap Merah.
 
 🔗 Link Simulasi
-
-Klik di sini untuk melihat simulasi di Tinkercad
+https://www.tinkercad.com/things/6NNCYQLMwOb-project-sismik-5?sharecode=zeBxsJJKggn63Qtk6-eyMCx-HVdDynGOei2VR-OWHgk
 
 📁 File yang Disertakan
 
